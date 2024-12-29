@@ -1,0 +1,15 @@
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\bin\Debug\net9.0\Asynawait.exe
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\bin\Debug\net9.0\Asynawait.deps.json
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\bin\Debug\net9.0\Asynawait.runtimeconfig.json
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\bin\Debug\net9.0\Asynawait.dll
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\bin\Debug\net9.0\Asynawait.pdb
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\Asynawait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\Asynawait.AssemblyInfoInputs.cache
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\Asynawait.AssemblyInfo.cs
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\Asynawait.csproj.CoreCompileInputs.cache
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\Asynawait.sourcelink.json
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\Asynawait.dll
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\refint\Asynawait.dll
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\Asynawait.pdb
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\Asynawait.genruntimeconfig.cache
+C:\Users\INSKUM23\Documents\Sandbox\Test\gitexamples\pdfwriter\csharapsamples\Asyncawait\Asynawait\obj\Debug\net9.0\ref\Asynawait.dll
