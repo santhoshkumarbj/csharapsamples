@@ -1,0 +1,155 @@
+{
+  "Sections": [
+    {
+      "Name": "EventDetails",
+      "Type": "DataRow",
+      "Lines": [
+        {
+          "Texts": [
+            {
+              "Text": "Event name: {EventName}",
+              "FontDescription": {
+                "Size": 12,
+                "FontFamily": "ZEISS Frutiger Next W1G",
+                "Alignment": "Left",
+                "FontStyle": "Bold"
+              }
+            }
+          ],
+          "Margin": {
+            "Left": 20,
+            "Top": 75
+          }
+        },
+        {
+          "Texts": [
+            {
+              "Text": "Host: {Prefix} {FirstName} {MiddleName}",
+              "FontDescription": {
+                "Size": 12,
+                "FontFamily": "ZEISS Frutiger Next W1G",
+                "Alignment": "Left",
+                "FontStyle": "Bold"
+              }
+            }
+          ],
+          "Margin": {
+            "Left": 20
+          }
+        },
+        {
+          "Texts": [
+            {
+              "Text": "[actual] Time: {EventStartedDateTime}",
+              "FontDescription": {
+                "Size": 12,
+                "FontFamily": "ZEISS Frutiger Next W1G",
+                "Alignment": "Left",
+                "FontStyle": "Bold"
+              }
+            }
+          ],
+          "Margin": {
+            "Left": 20
+          }
+        }
+      ]
+    },
+    {
+      "Name": "ZeissLogo",
+      "Type": "Image",
+      "Lines": [
+        {
+          "Images": [
+            {
+              "ImagePath": "ZeissLogo.jpg",
+              "ImageDescription": {
+                "Size": {
+                  "Height": 90,
+                  "Width": 160
+                },
+                "Position": {
+                  "Left": 435,
+                  "Bottom": 748,
+                  "PageNumber": 1
+                }
+
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "ChatHistory",
+      "Type": "Text",
+      "Lines": [
+        {
+          "Texts": [
+            {
+              "Text": "Chat History",
+              "FontDescription": {
+                "Size": 12,
+                "FontFamily": "ZEISS Frutiger Next W1G",
+                "Alignment": "Left",
+                "FontStyle": "Bold"
+              }
+            }
+          ],
+          "Margin": {
+            "Top": 50,
+            "Left": 20
+          }
+        }
+      ]
+    },
+    {
+      "Name": "ChatDetails",
+      "Type": "DataRow",
+      "Lines": [
+        {
+          "Texts": [
+            {
+              "Text": "{UserName} ",
+              "FontDescription": {
+                "Size": 12,
+                "FontFamily": "ZEISS Frutiger Next W1G",
+                "Alignment": "Left",
+                "FontStyle": "Bold"
+              }
+            },
+            {
+              "Text": "({CreatedDateTime})",
+              "FontDescription": {
+                "Size": 12,
+                "FontFamily": "ZEISS Frutiger Next W1G",
+                "Alignment": "Left",
+                "FontStyle": "Normal"
+              }
+            }
+          ],
+          "Margin": {
+            "Left": 20
+          }
+        },
+        {
+          "Texts": [
+            {
+              "Text": "{EventChat} ",
+              "FontDescription": {
+                "Size": 12,
+                "FontFamily": "ZEISS Frutiger Next W1G",
+                "Alignment": "Left",
+                "FontStyle": "Normal"
+              }
+            }
+          ],
+          "Margin": {
+            "Left": 20,
+            "Bottom": 20
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ZEISS Frutiger Next W1G.ttf" />
+    <None Remove="ZeissLogo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="ZEISS Frutiger Next W1G.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ZeissLogo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="itext7" Version="8.0.0" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Czm.Czi.Maui.Aggregator.ExportPdf\Czm.Czi.Maui.Aggregator.ExportPdf.csproj" />
+  </ItemGroup>
+
+</Project>
