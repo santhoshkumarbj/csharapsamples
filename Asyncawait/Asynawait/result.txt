@@ -1,0 +1,29 @@
+with await  method1();
+
+Hello, World!
+Before Method 1
+Before Method 2
+Before Method 3
+After Method 3
+After Method 2
+After Method 1
+Hello, World! 2
+Hello, World! 3
+Hello, World! 4
+Hello, World! 5
+
+with method1() without async
+
+
+Hello, World!
+Before Method 1
+Before Method 2
+Before Method 3
+Hello, World! 2
+Hello, World! 3
+Hello, World! 4
+Hello, World! 5
+After Method 3
+After Method 2
+After Method 1
+
